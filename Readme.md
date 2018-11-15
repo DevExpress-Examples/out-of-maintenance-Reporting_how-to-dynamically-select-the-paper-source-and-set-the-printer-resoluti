@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SelectPaperSource/Form1.cs) (VB: [Form1.vb](./VB/SelectPaperSource/Form1.vb))
+<!-- default file list end -->
 # How to dynamically select the paper source and set the printer resolution
 
 
